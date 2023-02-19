@@ -12,10 +12,11 @@
    - 👀 I am intrested in programming, data science, UI/UX.<br>
    - 🌱 I am currently learning python.<br>
    - 💞 I am looking to colaborate on java and python projects.
-   - 📫 How to raech me  <a href="www.linkedin.com/in/aniket-sharma-443a34221" >
-      <img align='center' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+   - 📫 How to reach me  <a href="www.linkedin.com/in/aniket-sharma-443a34221" >
+      <img align='center' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
       
- 
+      
+     
  <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/coding.gif" width="40px"/> Languages and Tools :
 ---
 <div>
@@ -28,7 +29,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="material design" alt="material" width="40" height="40"/>&nbsp;
   
-</div>
+</div><br>
+
+ 
+⚡Links:
+---
+<a href="https://auth.geeksforgeeks.org/user/aniketstude" >
+      <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/gfg-new-logo.png" alt="GFG Badge" height='40px'/></a>
+<a href="https://leetcode.com/aniketsh21475/" >
+      <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/LeetCode_Logo_black_with_text.svg.png" alt="leetcode Badge" height='40px'/></a><br>
+
 
 🔥 My Stats: 
 ---
