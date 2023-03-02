@@ -3,7 +3,7 @@
  <img align='center' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"/>  Hello, folks!
 </h1>
 
-<img src="https://github.com/ani-sh2301/My_First/blob/master/Frame%201.jpg" width='100%'/>
+<img src="https://github.com/ani-sh2301/images/blob/main/Frame%201.jpg" width='100%'/>
 
 :man_technologist: About Me :
 ---
@@ -17,7 +17,7 @@
       
       
      
- <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/coding.gif" width="40px"/> Languages and Tools :
+ <img align='center' src="https://github.com/ani-sh2301/images/blob/main/coding.gif" width="40px"/> Languages and Tools :
 ---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,9 +35,9 @@
 ⚡Links:
 ---
 <a href="https://auth.geeksforgeeks.org/user/aniketstude" >
-      <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/gfg-new-logo.png" alt="GFG Badge" height='40px'/></a>
+      <img align='center' src="https://github.com/ani-sh2301/images/blob/main/gfg-new-logo.png" alt="GFG Badge" height='40px'/></a>
 <a href="https://leetcode.com/aniketsh21475/" >
-      <img align='center' src="https://github.com/ani-sh2301/My_First/blob/master/LeetCode_Logo_black_with_text.svg.png" alt="leetcode Badge" height='40px'/></a><br>
+      <img align='center' src="https://github.com/ani-sh2301/images/blob/main/LeetCode_Logo_black_with_text.svg.png" alt="leetcode Badge" height='40px'/></a><br>
 
 
 🔥 My Stats: 
