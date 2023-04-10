@@ -42,7 +42,15 @@
 
 🔥 My Stats: 
 ---
+![](https://github-readme-stats.vercel.app/api?username=ani-sh2301&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ani-sh2301&theme=vision-friendly-dark&hide_border=false)<br/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ani-sh2301&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!---
 ani-sh2301/ani-sh2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
