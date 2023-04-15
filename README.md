@@ -48,9 +48,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ani-sh2301&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+🏆 GitHub Trophies
+---
+![](https://github-profile-trophy.vercel.app/?username=ani-sh2301&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+[![](https://visitcount.itsvg.in/api?id=ani-sh2301&icon=5&color=2)](https://visitcount.itsvg.in)
 <!---
 ani-sh2301/ani-sh2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
